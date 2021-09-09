@@ -1,0 +1,39 @@
+{
+  "name": "cosmetology",
+  "version": "1.0.0",
+  "description": "gulp project",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadzim84/cosmetology.git"
+  },
+  "author": "karaniecV",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "autoprefixer": "^9.7.3",
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "gulp-pug": "^4.0.1",
+    "gulp-sass": "^4.0.2",
+    "rollup": "^1.27.9",
+    "rollup-plugin-babel": "^4.3.3",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/vadzim84/cosmetology/issues"
+  },
+  "homepage": "https://github.com/vadzim84/cosmetology#readme",
+  "dependencies": {
+    "bootstrap-4-grid": "^3.4.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "jquery": "^3.6.0"
+  }
+}
