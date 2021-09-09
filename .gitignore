@@ -1,4 +1,0 @@
-
-# ignore node dependency directories
-node_modules/
-build/
